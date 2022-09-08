@@ -1,0 +1,23 @@
+[33mcommit df5299441b9c6d2dbce472b96ab003f3e1ff0b29[m[33m ([m[1;36mHEAD -> [m[1;32mrsschool-cv-html[m[33m, [m[1;31morigin/rsschool-cv-html[m[33m, [m[1;31morigin/gh-pages[m[33m)[m
+Author: Mikita <99195519+Dranikson@users.noreply.github.com>
+Date:   Thu Sep 8 18:30:32 2022 +0200
+
+    fix: document type
+
+[33mcommit 28986dfdffefbabd1b807cd870f9fb89e50eb6fd[m
+Author: Mikita <99195519+Dranikson@users.noreply.github.com>
+Date:   Thu Sep 8 18:22:57 2022 +0200
+
+    feat: add link to the cv
+
+[33mcommit 5c7f0a5952193f67699921139f9af38d557588df[m
+Author: Mikita Marchuk <mikitamarchuk@gmail.com>
+Date:   Tue Sep 6 20:11:10 2022 +0200
+
+    init: add cv.md
+
+[33mcommit f8d5575236dca8277edff99ccc15a2a0ed19614f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mikita <99195519+Dranikson@users.noreply.github.com>
+Date:   Tue Sep 6 19:36:03 2022 +0200
+
+    Initial commit
